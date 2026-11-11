@@ -1,4 +1,7 @@
-<div align="center">
+<div align="center" id="top">
+
+<!-- 🌊 ANIMACIÓN 1: Cabecera de onda en movimiento (SVG Dinámico) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003865,100:007ACC&height=120&section=header&animation=fadeIn" alt="Header Wave" />
 
 ```text
   _____ ____      _    _   _ ____    _____ _    ____ _____ 
@@ -9,6 +12,9 @@
                                                            
           🚌 SISTEMA ERP DE TRANSPORTE URBANO ⚙️
 ```
+
+<!-- ⌨️ ANIMACIÓN 2: Subtítulo con efecto de máquina de escribir en vivo -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=750&lines=%F0%9F%9A%8C+Unificando+la+administraci%C3%B3n+de+transporte+p%C3%BAblico+en+tiempo+real;%E2%9A%99%EF%B8%8F+Control+de+frecuencias+%7C+Gesti%C3%B3n+de+unidades+%7C+Turnos+automatizados;%F0%9F%90%98+Respaldado+por+SGBD+PostgreSQL+y+modelado+estricto+BPMN+2.0" alt="Typing SVG" />
 
 <p><i><samp>« Unificando la administración, despacho y monitoreo de transporte público en tiempo real »</samp></i></p>
 
@@ -27,7 +33,7 @@
 
 <br>
 
-<!-- Barra de Navegación Rápida Agregada -->
+<!-- Barra de Navegación Rápida -->
 <kbd><a href="#-1-tema-y-descripción-del-proyecto">📌 1. Proyecto</a></kbd> •
 <kbd><a href="#️-2-problemáticas-a-resolver">⚠️ 2. Problemáticas</a></kbd> •
 <kbd><a href="#-3-enfoque-de-solución-por-qué-es-un-erp">💡 3. Solución ERP</a></kbd> •
@@ -37,11 +43,15 @@
 
 </div>
 
----
+<!-- ⚡ ANIMACIÓN 3: Línea divisoria animada estilo pulso neón -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 ## 📌 1. Tema y Descripción del Proyecto
+
+<!-- 🔄 ANIMACIÓN 4: Indicador de sistema activo en tiempo real -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=500&color=28A745&center=true&vCenter=true&width=500&height=25&lines=%E2%97%8F+ESTADO+DEL+MODELO%3A+SINCRONIZADO+Y+TRAZABLE;%E2%97%8F+ FLUJO+DE+DATOS%3A+TIEMPO+REAL+(ACID)" alt="Status Animation" />
 
 </div>
 
@@ -58,20 +68,22 @@
    [ Cooperativa ] ───► ( Sistema ERP TRANS FAST ) ───► 🚌 Flota Controlada y Puntual
 ```
 
-<!-- Tarjetas de Pilares Agregadas -->
 | 🎯 <kbd>Centralización</kbd> | ⚡ <kbd>Automatización</kbd> | 🔍 <kbd>Trazabilidad</kbd> |
 | :---: | :---: | :---: |
 | <sub><i>Unificación administrativa de todas las unidades en una sola base de datos.</i></sub> | <sub><i>Asignación inteligente de turnos, rutas y horarios sin choques operativos.</i></sub> | <sub><i>Monitoreo constante de frecuencias y estados mecánicos en tiempo real.</i></sub> |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 ## ⚠️ 2. Problemáticas a Resolver
 
 <p><sub><i>La propuesta atiende directamente las siguientes falencias en el modelo actual de las operadoras:</i></sub></p>
+
+<!-- 🚨 ANIMACIÓN 5: Alerta dinámica de contraste -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=DC3545&center=true&vCenter=true&width=650&height=30&lines=%E2%9A%A0%EF%B8%8F+Detectando+cuellos+de+botella+en+gesti%C3%B3n+manual...;%E2%9C%85+Aplicando+automatizaci%C3%B3n+ERP+sobre+fuente+%C3%BAnica+de+datos" alt="Problem Animation" />
 
 ```text
  ❌ MODELO ACTUAL (Caos y Silos)              ✅ MODELO TRANS FAST (ERP)
@@ -82,7 +94,6 @@
 └─────────────────────────────────┘          └─────────────────────────────────┘
 ```
 
-<!-- Bloque de Contraste de Color Agregado -->
 ```diff
 - ❌ ANTES: Despachos manuales sin validación cruzada de choferes ni estado mecánico.
 + ✅ AHORA: Bloqueo automático de despacho si la unidad está en taller o el turno se duplica.
@@ -94,7 +105,7 @@
 - 🧩 <kbd>**Gestión fragmentada:**</kbd> <samp>Administración manual y en silos de la asignación de buses, turnos de personal y mantenimiento, causando ineficiencias y fallas operativas.</samp>
 - 📉 <kbd>**Carencia de métricas y trazabilidad:**</kbd> <samp>Imposibilidad de tomar decisiones basadas en datos por la falta de un registro sistematizado sobre el estado de la red y disponibilidad real de los recursos.</samp>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -135,12 +146,11 @@ graph TD
 
 </div>
 
-<!-- Menú Desplegable Interactivo Agregado -->
 <details>
-<summary>🔎 <b>Haz clic aquí para ver un ejemplo real de validación entre módulos (Caso de Uso)</b></summary>
+<summary>🔎 <b>Haz clic aquí para desplegar la simulación interactiva de bloqueo entre módulos (Caso de Uso)</b></summary>
 <br>
 
-> **Escenario de Bloqueo Preventivo:**
+> **Escenario de Bloqueo Preventivo en Tiempo Real:**
 > 1. La `Unidad #14` termina su recorrido y el conductor reporta una falla en los frenos.
 > 2. El módulo de **Mantenimiento** exige llenar el campo `"Describir el daño"` y cambia el estado en **PostgreSQL** a `EN_MANTENIMIENTO`.
 > 3. Si el operador en **Despacho** intenta asignar la `Unidad #14` a una nueva ruta, el sistema consulta la base de datos, detecta el estado activo de taller y **rechaza la operación mostrando en pantalla:**  
@@ -148,11 +158,14 @@ graph TD
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 ## 🖥️ 4. Arquitectura de Sistemas y Componentes Técnicos
+
+<!-- 📡 ANIMACIÓN 6: Simulación de tráfico de red y servidor -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=007ACC&center=true&vCenter=true&width=600&height=25&lines=%F0%9F%8C%90+Verificando+Enlace+WAN+...+%5BOK%5D;%F0%9F%94%8C+Switch+LAN+(Oficina)+%7C+%F0%9F%93%A1+Wi-Fi+AP+(Taller)+...+%5BACTIVOS%5D;%F0%9F%90%98+SGBD+PostgreSQL%3A+Escuchando+transacciones..." alt="Network Animation" />
 
 <p><samp>Para asegurar el correcto funcionamiento del ERP y evitar confusiones en los diagnósticos, los recursos y funciones se clasifican rigurosamente:</samp></p>
 
@@ -186,7 +199,6 @@ graph TD
 - 🐘 <kbd>**Rol del SGBD (PostgreSQL):**</kbd> <samp>El Sistema de Gestión de Base de Datos es el único responsable de consultar la disponibilidad (`buses`/`choferes`) y registrar los cambios de estado (`transacciones`). No se deja su función implícita.</samp>
 - 🌐 <kbd>**Infraestructura de Red:**</kbd> <samp>En el diseño físico y lógico, se diferencian estrictamente los componentes de red, separando las funciones de los `Switches` (conexión de equipos cableados en oficina) de los `Puntos de Acceso Wi-Fi` y verificando los enlaces `WAN` para la comunicación externa.</samp>
 
-<!-- Tabla Resumen de Componentes Técnicos Agregada -->
 <div align="center">
 
 | Capa Tecnológica | Componente Específico | Rol dentro de TRANS FAST |
@@ -198,7 +210,7 @@ graph TD
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -222,7 +234,6 @@ flowchart LR
     style F fill:#cce5ff,stroke:#004085,color:#000
 ```
 
-<!-- Diagrama de Secuencia Extra Agregado -->
 ### 🔄 Secuencia de Validación en Base de Datos (Despacho)
 <p><sub><i>Interacción paso a paso entre el Operador, el Software ERP y el motor PostgreSQL:</i></sub></p>
 
@@ -252,11 +263,13 @@ sequenceDiagram
 
 <div align="center">
 
+<!-- 🔗 ANIMACIÓN 7: Simulación de consulta SQL a UI -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=FF6F00&center=true&vCenter=true&width=650&height=28&lines=SELECT+estado+FROM+unidades+WHERE+codigo+%3D+'ID_ESTADO_04';%E2%95%90%E2%95%90%E2%95%90%E2%96%BA+Renderizando+en+UI%3A+%22Pendiente+de+Revisi%C3%B3n%22" alt="Traceability Animation" />
+
 ```text
 [ Tabla PostgreSQL: ID_ESTADO_04 ] ══════► [ UI Operador: "Pendiente de Revisión" ]
 ```
 
-<!-- Matriz de Trazabilidad Agregada -->
 | Código de Trazabilidad | Registro en PostgreSQL | Estado en Interfaz (UI) | Acción del Sistema ERP |
 | :---: | :---: | :---: | :--- |
 | <kbd>`ID_ESTADO_01`</kbd> | `ESTADO = 'DISPONIBLE'` | 🟢 **Disponible** | Habilita la unidad para asignación de ruta y turno. |
@@ -266,7 +279,7 @@ sequenceDiagram
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -275,7 +288,7 @@ sequenceDiagram
 </div>
 
 > [!TIP]
-> - **Oracle.** (s. f.). *¿Qué es ERP? (Planificación de recursos empresariales).* Oracle América Latina. Recuperado el 30 de octubre de 2026, de [https://www.oracle.com/latam/erp/what-is-erp/](https://www.oracle.com/latam/erp/what-is-erp/)
+> - **Oracle.** (s. f.). *¿Qué es ERP? (Planificación de recursos empresariales).* Oracle América Latina. Recuperado el 30 de octubre de 2026, de https://www.oracle.com/latam/erp/what-is-erp/
 
 <div align="center">
 
@@ -283,5 +296,8 @@ sequenceDiagram
 
 <br>
 <kbd><a href="#top">⬆️ Volver arriba</a></kbd>
+
+<!-- 🌊 ANIMACIÓN 8: Pie de página con onda en movimiento -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:003865&height=110&section=footer" alt="Footer Wave" />
 
 </div>
